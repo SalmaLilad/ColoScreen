@@ -1,4 +1,3 @@
-
 # 🗂️ File Naming Architecture & Taxonomy
 
 ## 1. Overview & Mandate
