@@ -104,3 +104,8 @@ mask = augmented['mask']  # Automatically transformed
 - [Albumentations Documentation](https://albumentations.ai/docs/)
 - [Albumentations GitHub](https://github.com/albumentations-team/albumentations)
 - [Medical Imaging Examples](https://albumentations.ai/docs/examples/example_kaggle_salt/)
+
+---
+##  AI Assistance Disclosure
+  
+This README was prepared with the assistance of an AI agent to enhance structure, clarity, and technical documentation quality. All project code, architecture, and experimental results were implemented, and verified by me without any AI use. I provided the outline, structure and content for this ReadME and the AI assistant was used exclusively for documentation, drafting, formatting, and summarization purposes.
