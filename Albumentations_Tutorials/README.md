@@ -24,6 +24,7 @@ class ImageFolder(nn.Module):
             augmented = self.transform(image=image)
             image = augmented["image"]
         return image, label
+
 ```
 
 Key differences from torchvision transforms:
