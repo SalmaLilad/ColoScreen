@@ -1,4 +1,4 @@
-# ColoScreen: AI-Powered Triage & Morphological Analysis for GI Health
+# ColoScreen: Machine Learning for Early Triage of Visible Rectal Bleeding
 
 **ColoScreen** is a medical AI research project designed to detect and classify blood on toilet paper using computer vision. By leveraging a hybrid pipeline of physical data acquisition, digital compositing, and generative synthetic data, the model accounts for variances in substrate texture, lighting, and blood morphology to provide accurate triage considerations.
 
