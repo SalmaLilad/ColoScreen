@@ -1,5 +1,3 @@
-
-
 import cv2
 import albumentations as A
 from matplotlib import pyplot as plt
